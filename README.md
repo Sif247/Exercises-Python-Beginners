@@ -1,6 +1,6 @@
 # Exercises-Python-Beginners
 
-## Variables
+## [Variables](https://github.com/Sif247/Exercises-Python-Beginners/tree/main/Variables)
 ### Exercise 1
 Declare a variable name and assign it your name. Print it to the screen.
 
