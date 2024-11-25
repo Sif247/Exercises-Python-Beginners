@@ -55,7 +55,7 @@ Assign the string "Hello world" to a variable string. Use the count() method to 
 [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/String/Exercise%209.py)
 Assign the string "Hello world" to a variable string. Print the last 5 characters of the string in uppercase, replacing the letter "o" with "k".
 
-## [Mathematical Operators]()
+## [Mathematical Operators exercises]()
 
 [Exercise 1]()
 Declare two variables, number1 and number2, and assign them two integer values. Perform the addition of the two variables and assign the result to a new variable sum, then print it to the screen.
