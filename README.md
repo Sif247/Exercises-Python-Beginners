@@ -55,30 +55,30 @@ Assign the string "Hello world" to a variable string. Use the count() method to 
 [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/String/Exercise%209.py)
 Assign the string "Hello world" to a variable string. Print the last 5 characters of the string in uppercase, replacing the letter "o" with "k".
 
-## [Mathematical Operators exercises]()
+## [Mathematical Operators exercises](https://github.com/Sif247/Exercises-Python-Beginners/tree/main/mathematical%20operators)
 
-[Exercise 1]()
+[Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%201.py)
 Declare two variables, number1 and number2, and assign them two integer values. Perform the addition of the two variables and assign the result to a new variable sum, then print it to the screen.
 
-[Exercise 2]()
+[Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%202.py)
 Perform the subtraction of the two variables and assign the result to a new variable difference. Print it to the screen.
 
-[Exercise 3]()
+[Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%203.py)
 Perform the multiplication of the two variables and assign the result to a new variable product. Print it to the screen.
 
-[Exercise 4]()
+[Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%204.py)
 Perform the division of the two variables and assign the result to a new variable quotient. Print it to the screen.
 
-[Exercise 5]()
+[Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%205.py)
 Perform the modulo operation (remainder of the division) between the two variables and assign the result to a new variable remainder. Print it to the screen.
 
-[Exercise 6]()
+[Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%206.py)
 Increment number1 by 1 and decrement number2 by 3. Print the new values of both variables to the screen.
 
-[Exercise 7]()
+[Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%207.py)
 Multiply number1 by itself and add 5, then add it to number2 squared. Assign the result of this operation to a variable result and print it to the screen.
 
-[Exercise 8]()
+[Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%208.py)
 Find an operation to make number1 equal to 1 without directly reassigning it to 1. Subtract it from itself as part of the solution.
 
 
