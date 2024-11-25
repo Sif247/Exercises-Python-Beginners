@@ -54,3 +54,31 @@ Assign the string "Hello world" to a variable string. Use the count() method to 
 
 [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/String/Exercise%209.py)
 Assign the string "Hello world" to a variable string. Print the last 5 characters of the string in uppercase, replacing the letter "o" with "k".
+
+## [Mathematical Operators]()
+
+[Exercise 1]()
+Declare two variables, number1 and number2, and assign them two integer values. Perform the addition of the two variables and assign the result to a new variable sum, then print it to the screen.
+
+[Exercise 2]()
+Perform the subtraction of the two variables and assign the result to a new variable difference. Print it to the screen.
+
+[Exercise 3]()
+Perform the multiplication of the two variables and assign the result to a new variable product. Print it to the screen.
+
+[Exercise 4]()
+Perform the division of the two variables and assign the result to a new variable quotient. Print it to the screen.
+
+[Exercise 5]()
+Perform the modulo operation (remainder of the division) between the two variables and assign the result to a new variable remainder. Print it to the screen.
+
+[Exercise 6]()
+Increment number1 by 1 and decrement number2 by 3. Print the new values of both variables to the screen.
+
+[Exercise 7]()
+Multiply number1 by itself and add 5, then add it to number2 squared. Assign the result of this operation to a variable result and print it to the screen.
+
+[Exercise 8]()
+Find an operation to make number1 equal to 1 without directly reassigning it to 1. Subtract it from itself as part of the solution.
+
+
