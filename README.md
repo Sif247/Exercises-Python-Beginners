@@ -110,4 +110,31 @@ Write a program that asks the user to enter a character. If the character is a v
 [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%209.py)
 Write a program that asks the user to enter three integers representing the sides of a triangle. The program should check whether these three numbers form a right triangle. If the numbers satisfy the conditions of the Pythagorean theorem, print "The three numbers form a right triangle". Otherwise, print "The three numbers do not form a right triangle".
 
+## While Loops exercises
 
+[Exercise 1]()
+Print the integers from 1 to 10 using a while loop.
+
+[Exercise 2]()
+Calculate the sum of the first n positive integers using a while loop. The user must enter the value of n.
+
+[Exercise 3]()
+Print the even numbers from 2 to 10 using a while loop.
+
+[Exercise 4]()
+Ask the user to guess a random integer between 1 and 10. Continue asking the user to guess until they get the correct number. Use a while loop.
+
+[Exercise 5]()
+Ask the user to enter a string. Print the string in reverse using a while loop.
+
+[Exercise 6]()
+Print the numbers from 10 to 1 using a while loop.
+
+[Exercise 7]()
+Calculate the factorial of a positive integer n using a while loop.
+
+[Exercise 8]()
+Ask the user to enter a list of integers. Print the sum of all the numbers using a while loop.
+
+[Exercise 9]()
+Ask the user to enter a string. Print only the consonants from the string using a while loop.
