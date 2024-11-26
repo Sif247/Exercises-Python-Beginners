@@ -83,31 +83,31 @@ Find an operation to make number1 equal to 1 without directly reassigning it to 
 
 ## If Conditional Statements exercises
 
-[Exercise 1]()
+[Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%201.py)
 Write a program that asks the user to enter a number and prints "The number is positive" if the number is greater than zero; otherwise, print "The number is negative".
 
-[Exercise 2]()
+[Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%202.py)
 Write a program that asks the user to enter two numbers and prints "The first number is greater" if the first number is greater than the second, "The second number is greater" if the second number is greater than the first, or "The numbers are equal" if they are the same.
 
-[Exercise 3]()
+[Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%203.py)
 Write a program that asks the user to enter a string and prints "The string is empty" if the string is empty; otherwise, print "The string is not empty".
 
-[Exercise 4]()
+[Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%204.py)
 Write a program that asks the user to enter a number and prints "The number is even" if the number is even; otherwise, print "The number is odd".
 
-[Exercise 5]()
+[Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%205.py)
 Write a program that asks the user to enter a letter and prints "The letter is a vowel" if the letter is a vowel (a, e, i, o, u); otherwise, print "The letter is not a vowel".
 
-[Exercise 6]()
+[Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%206.py)
 Write a program that asks the user to enter a number and prints "The number is between 1 and 10" if the number is within that range; otherwise, print "The number is not between 1 and 10".
 
-[Exercise 7]()
+[Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%207.py)
 Write a program that asks the user to enter an integer. If the number is greater than 10, print "The number is greater than 10". If the number is equal to 10, print "The number is equal to 10". If the number is less than 10, print "The number is less than 10".
 
-[Exercise 8]()
+[Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%208.py)
 Write a program that asks the user to enter a character. If the character is a vowel (a, e, i, o, u) and is a letter (checked using isalpha()), print "The character entered is a vowel". If the character is a consonant, print "The character entered is a consonant". If the character is not a letter, print "The character entered is not a letter".
 
-[Exercise 9]()
+[Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%209.py)
 Write a program that asks the user to enter three integers representing the sides of a triangle. The program should check whether these three numbers form a right triangle. If the numbers satisfy the conditions of the Pythagorean theorem, print "The three numbers form a right triangle". Otherwise, print "The three numbers do not form a right triangle".
 
 
