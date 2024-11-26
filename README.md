@@ -1,6 +1,6 @@
 # Exercises-Python-Beginners
 
-## [Variables exercises](https://github.com/Sif247/Exercises-Python-Beginners/tree/main/Variables)
+## Variables exercises]
 [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Variables/Exercise%201.py)
 Declare a variable name and assign it your name. Print it to the screen.
 
@@ -26,7 +26,7 @@ Create variables first_name, last_name, and birth_year and assign them appropria
 Create a variable current_age and assign it the value of your current age by calculating it based on the current year. Print current_age to the screen.
 
 
-## [String exercises](https://github.com/Sif247/Exercises-Python-Beginners/tree/main/String)
+## String exercises
 
 [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/String/Exercise%201.py)
 Assign the string "hello world" to a variable string. Use the upper() method to convert it to uppercase and store the result in a new variable.
@@ -55,7 +55,7 @@ Assign the string "Hello world" to a variable string. Use the count() method to 
 [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/String/Exercise%209.py)
 Assign the string "Hello world" to a variable string. Print the last 5 characters of the string in uppercase, replacing the letter "o" with "k".
 
-## [Mathematical Operators exercises](https://github.com/Sif247/Exercises-Python-Beginners/tree/main/mathematical%20operators)
+## Mathematical Operators exercises
 
 [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%201.py)
 Declare two variables, number1 and number2, and assign them two integer values. Perform the addition of the two variables and assign the result to a new variable sum, then print it to the screen.
@@ -80,5 +80,34 @@ Multiply number1 by itself and add 5, then add it to number2 squared. Assign the
 
 [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%208.py)
 Find an operation to make number1 equal to 1 without directly reassigning it to 1. Subtract it from itself as part of the solution.
+
+## If Conditional Statements exercises
+
+[Exercise 1]()
+Write a program that asks the user to enter a number and prints "The number is positive" if the number is greater than zero; otherwise, print "The number is negative".
+
+[Exercise 2]()
+Write a program that asks the user to enter two numbers and prints "The first number is greater" if the first number is greater than the second, "The second number is greater" if the second number is greater than the first, or "The numbers are equal" if they are the same.
+
+[Exercise 3]()
+Write a program that asks the user to enter a string and prints "The string is empty" if the string is empty; otherwise, print "The string is not empty".
+
+[Exercise 4]()
+Write a program that asks the user to enter a number and prints "The number is even" if the number is even; otherwise, print "The number is odd".
+
+[Exercise 5]()
+Write a program that asks the user to enter a letter and prints "The letter is a vowel" if the letter is a vowel (a, e, i, o, u); otherwise, print "The letter is not a vowel".
+
+[Exercise 6]()
+Write a program that asks the user to enter a number and prints "The number is between 1 and 10" if the number is within that range; otherwise, print "The number is not between 1 and 10".
+
+[Exercise 7]()
+Write a program that asks the user to enter an integer. If the number is greater than 10, print "The number is greater than 10". If the number is equal to 10, print "The number is equal to 10". If the number is less than 10, print "The number is less than 10".
+
+[Exercise 8]()
+Write a program that asks the user to enter a character. If the character is a vowel (a, e, i, o, u) and is a letter (checked using isalpha()), print "The character entered is a vowel". If the character is a consonant, print "The character entered is a consonant". If the character is not a letter, print "The character entered is not a letter".
+
+[Exercise 9]()
+Write a program that asks the user to enter three integers representing the sides of a triangle. The program should check whether these three numbers form a right triangle. If the numbers satisfy the conditions of the Pythagorean theorem, print "The three numbers form a right triangle". Otherwise, print "The three numbers do not form a right triangle".
 
 
