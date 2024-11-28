@@ -6,7 +6,7 @@
 - [Mathematical Operators Exercises](#mathematical-operators-exercises)
 - [If Conditional Statements Exercises](#if-conditional-statements-exercises)
 - [While Loops Exercises](#while-loops-exercises)
-- [For Loop Exercises](#foor-loop-exercises)
+- [For Loop Exercises](#for-loop-exercises)
 
 ---
 
