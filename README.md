@@ -7,6 +7,11 @@
 - [If Conditional Statements Exercises](#if-conditional-statements-exercises)
 - [While Loops Exercises](#while-loops-exercises)
 - [For Loop Exercises](#for-loop-exercises)
+- [List Exercises](#list-exercises)
+- [Tuple Exercises](#tuple-exercises)
+- [Dictionary Exercises](#dictionary-exercises)
+- [Set Exercises](#set-exercises)
+
 
 ---
 
@@ -90,18 +95,78 @@
 
 # For Loop Exercises
 
-| **Exercise** | **Description**                                                                                               | **Link** |
-|--------------|---------------------------------------------------------------------------------------------------------------|----------|
-| Exercise 1   | Write a program that uses a for loop to print each element in a list.                                         | [Link](#) |
-| Exercise 2   | Write a program that uses a for loop to print all numbers from 1 to 10.                                       | [Link](#) |
-| Exercise 3   | Write a program that uses a for loop to sum all the numbers in a list.                                        | [Link](#) |
-| Exercise 4   | Write a program that uses a for loop to print all even numbers from 1 to 20.                                  | [Link](#) |
-| Exercise 5   | Write a program that uses a for loop to print all the letters in a string.                                    | [Link](#) |
-| Exercise 6   | Write a program that uses a for loop to print all the keys in a dictionary.                                   | [Link](#) |
-| Exercise 7   | Write a program that uses a for loop to print all the key-value pairs in a dictionary.                        | [Link](#) |
-| Exercise 8   | Write a program that uses a for loop to print all the letters of every string in a list.                      | [Link](#) |
-| Exercise 9   | Write a program that uses a for loop to count how many times a letter appears in a string.                    | [Link](#) |
-| Exercise 10  | Write a program that uses a for loop to calculate the average of a list of numbers.                           | [Link](#) |
+| Exercise | Description| Link |
+|----------|------------|------|
+| 1 | Write a program that uses a for loop to print each element in a list.| [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%201.py) |
+| 2 | Write a program that uses a for loop to print all numbers from 1 to 10.| [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%202.py) |
+| 3 | Write a program that uses a for loop to sum all the numbers in a list.  | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%203.py) |
+| 4 | Write a program that uses a for loop to print all even numbers from 1 to 20. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%204.py) |
+| 5 | Write a program that uses a for loop to print all the letters in a string.| [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%205.py) |
+| 6 | Write a program that uses a for loop to print all the keys in a dictionary. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%206.py) |
+| 7 | Write a program that uses a for loop to print all the key-value pairs in a dictionary. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%207.py) |
+| 8 | Write a program that uses a for loop to print all the letters of every string in a list.  | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%208.py) |
+| 9 | Write a program that uses a for loop to count how many times a letter appears in a string.  | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%209.py) |
+| 10 | Write a program that uses a for loop to calculate the average of a list of numbers. | [Exercise 10](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%2010.py) |
+
+---
+## List Exercises
+
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 1 | Create an empty list and assign it to a variable. | [Exercise 1](#) |
+| 2 | Create a list of integers from 1 to 5 and assign it to a variable. | [Exercise 2](#) |
+| 3 | Access the element with index 2 from the list created in the previous exercise. | [Exercise 3](#) |
+| 4 | Add a new element `6` to the list created earlier. | [Exercise 4](#) |
+| 5 | Remove the element with index 3 from the previous list. | [Exercise 5](#) |
+| 6 | Create a new list containing only the first three elements of the previous list. | [Exercise 6](#) |
+| 7 | Create a new list containing the elements at odd indices of the previous list. | [Exercise 7](#) |
+| 8 | Sort the previous list in descending order. | [Exercise 8](#) |
+| 9 | Count how many times the element `2` appears in the previous list. | [Exercise 9](#) |
 
 ---
 
+## Tuple Exercises
+
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 1 | Create an empty tuple and assign it to a variable. | [Exercise 1](#) |
+| 2 | Create a tuple with the following elements: `"apple"`, `"banana"`, `"kiwi"`. | [Exercise 2](#) |
+| 3 | Access the element `"banana"` from the tuple created earlier. | [Exercise 3](#) |
+| 4 | Create a new tuple containing only the first two elements of the previous tuple. | [Exercise 4](#) |
+| 5 | Check if the element `"pineapple"` is present in the previous tuple. | [Exercise 5](#) |
+| 6 | Create a new tuple by concatenating the previous tuple with the tuple `("peach", "orange")`. | [Exercise 6](#) |
+| 7 | Find the length of the tuple created in the previous exercise. | [Exercise 7](#) |
+| 8 | Create a tuple containing the integers from 1 to 5. | [Exercise 8](#) |
+| 9 | Create a tuple containing the squares of integers from 1 to 5. | [Exercise 9](#) |
+| 10 | Count the number of occurrences of the element `"apple"` in the previous tuple. | [Exercise 10](#) |
+
+---
+
+## Dictionary Exercises
+
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 1 | Create an empty dictionary and assign it to a variable. | [Exercise 1](#) |
+| 2 | Create a dictionary with the following keys and values: `"name": "Mario"`, `"surname": "Rossi"`, `"age": 30`. | [Exercise 2](#) |
+| 3 | Access the value of the key `"age"` in the dictionary created earlier. | [Exercise 3](#) |
+| 4 | Add a new key `"email"` with the value `"mario.rossi@email.com"` to the previous dictionary. | [Exercise 4](#) |
+| 5 | Remove the key `"surname"` from the previous dictionary. | [Exercise 5](#) |
+| 6 | Create a new list containing only the keys from the previous dictionary. | [Exercise 6](#) |
+| 7 | Create a new list containing only the values from the previous dictionary. | [Exercise 7](#) |
+| 8 | Update the value of the key `"age"` in the previous dictionary to `35`. | [Exercise 8](#) |
+| 9 | Count the number of elements in the previous dictionary. | [Exercise 9](#) |
+
+---
+
+## Set Exercises
+
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 1 | Create an empty set and assign it to a variable. | [Exercise 1](#) |
+| 2 | Create a set containing the following elements: `"apple"`, `"banana"`, `"kiwi"`, `"apple"`. | [Exercise 2](#) |
+| 3 | Add the element `"peach"` to the previous set. | [Exercise 3](#) |
+| 4 | Remove the element `"apple"` from the previous set. | [Exercise 4](#) |
+| 5 | Check if the element `"pineapple"` is present in the previous set. | [Exercise 5](#) |
+| 6 | Create a new set containing the elements `"banana"`, `"kiwi"`, and `"orange"`. | [Exercise 6](#) |
+| 7 | Create a set containing integers from 1 to 5 using `range()`. | [Exercise 7](#) |
+| 8 | Create a new set containing the even numbers from the set created earlier. | [Exercise 8](#) |
