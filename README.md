@@ -92,16 +92,16 @@
 
 | Exercise | Description| Link |
 |----------|------------|------|
-| Exercise 1   | Write a program that uses a for loop to print each element in a list.| [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%201.py) |
-| Exercise 2   | Write a program that uses a for loop to print all numbers from 1 to 10.| [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%202.py) |
-| Exercise 3   | Write a program that uses a for loop to sum all the numbers in a list.  | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%203.py) |
-| Exercise 4   | Write a program that uses a for loop to print all even numbers from 1 to 20. | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%204.py) |
-| Exercise 5   | Write a program that uses a for loop to print all the letters in a string.| [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%205.py) |
-| Exercise 6   | Write a program that uses a for loop to print all the keys in a dictionary. | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%206.py) |
-| Exercise 7   | Write a program that uses a for loop to print all the key-value pairs in a dictionary. | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%207.py) |
-| Exercise 8   | Write a program that uses a for loop to print all the letters of every string in a list.  | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%208.py) |
-| Exercise 9   | Write a program that uses a for loop to count how many times a letter appears in a string.  | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%209.py) |
-| Exercise 10  | Write a program that uses a for loop to calculate the average of a list of numbers. | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%2010.py) |
+| Exercise 1   | Write a program that uses a for loop to print each element in a list.| [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%201.py) |
+| Exercise 2   | Write a program that uses a for loop to print all numbers from 1 to 10.| [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%202.py) |
+| Exercise 3   | Write a program that uses a for loop to sum all the numbers in a list.  | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%203.py) |
+| Exercise 4   | Write a program that uses a for loop to print all even numbers from 1 to 20. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%204.py) |
+| Exercise 5   | Write a program that uses a for loop to print all the letters in a string.| [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%205.py) |
+| Exercise 6   | Write a program that uses a for loop to print all the keys in a dictionary. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%206.py) |
+| Exercise 7   | Write a program that uses a for loop to print all the key-value pairs in a dictionary. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%207.py) |
+| Exercise 8   | Write a program that uses a for loop to print all the letters of every string in a list.  | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%208.py) |
+| Exercise 9   | Write a program that uses a for loop to count how many times a letter appears in a string.  | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%209.py) |
+| Exercise 10  | Write a program that uses a for loop to calculate the average of a list of numbers. | [Exercise 10](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%2010.py) |
 
 ---
 
