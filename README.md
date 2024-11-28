@@ -113,15 +113,15 @@
 
 | Exercise | Description | Link |
 |----------|-------------|------|
-| 1 | Create an empty list and assign it to a variable. | [Exercise 1](#) |
-| 2 | Create a list of integers from 1 to 5 and assign it to a variable. | [Exercise 2](#) |
-| 3 | Access the element with index 2 from the list created in the previous exercise. | [Exercise 3](#) |
-| 4 | Add a new element `6` to the list created earlier. | [Exercise 4](#) |
-| 5 | Remove the element with index 3 from the previous list. | [Exercise 5](#) |
-| 6 | Create a new list containing only the first three elements of the previous list. | [Exercise 6](#) |
-| 7 | Create a new list containing the elements at odd indices of the previous list. | [Exercise 7](#) |
-| 8 | Sort the previous list in descending order. | [Exercise 8](#) |
-| 9 | Count how many times the element `2` appears in the previous list. | [Exercise 9](#) |
+| 1 | Create an empty list and assign it to a variable. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%201.py) |
+| 2 | Create a list of integers from 1 to 5 and assign it to a variable. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%202.py) |
+| 3 | Access the element with index 2 from the list created in the previous exercise. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%203.py) |
+| 4 | Add a new element `6` to the list created earlier. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%204.py) |
+| 5 | Remove the element with index 3 from the previous list. | [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%205.py) |
+| 6 | Create a new list containing only the first three elements of the previous list. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%206.py) |
+| 7 | Create a new list containing the elements at odd indices of the previous list. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%207.py) |
+| 8 | Sort the previous list in descending order. | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%208.py) |
+| 9 | Count how many times the element `2` appears in the previous list. | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%209.py) |
 
 ---
 
