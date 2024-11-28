@@ -75,14 +75,14 @@
 
 | Exercise | Description | Link |
 |----------|-------------|------|
-| 1 | Print the integers from 1 to 10 using a while loop. | [Exercise 1]() |
-| 2 | Calculate the sum of the first `n` positive integers using a while loop. | [Exercise 2]() |
-| 3 | Print the even numbers from 2 to 10 using a while loop. | [Exercise 3]() |
-| 4 | Ask the user to guess a random integer between 1 and 10. Keep asking until the correct number is guessed. | [Exercise 4]() |
-| 5 | Ask the user to enter a string and print it in reverse using a while loop. | [Exercise 5]() |
-| 6 | Print the numbers from 10 to 1 using a while loop. | [Exercise 6]() |
-| 7 | Calculate the factorial of a positive integer `n` using a while loop. | [Exercise 7]() |
-| 8 | Ask the user to enter a list of integers. Print the sum of all the numbers using a while loop. | [Exercise 8]() |
-| 9 | Ask the user to enter a string. Print only the consonants from the string using a while loop. | [Exercise 9]() |
+| 1 | Print the integers from 1 to 10 using a while loop. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%201.py) |
+| 2 | Calculate the sum of the first `n` positive integers using a while loop. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%202.py) |
+| 3 | Print the even numbers from 2 to 10 using a while loop. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%203.py) |
+| 4 | Ask the user to guess a random integer between 1 and 10. Keep asking until the correct number is guessed. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%204.py) |
+| 5 | Ask the user to enter a string and print it in reverse using a while loop. | [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%205.py) |
+| 6 | Print the numbers from 10 to 1 using a while loop. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%206.py) |
+| 7 | Calculate the factorial of a positive integer `n` using a while loop. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%207.py) |
+| 8 | Ask the user to enter a list of integers. Print the sum of all the numbers using a while loop. | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%208.py) |
+| 9 | Ask the user to enter a string. Print only the consonants from the string using a while loop. | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%209.py) |
 
 
