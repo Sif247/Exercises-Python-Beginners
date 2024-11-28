@@ -101,7 +101,7 @@
 | Exercise 7   | Write a program that uses a for loop to print all the key-value pairs in a dictionary. | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%207.py) |
 | Exercise 8   | Write a program that uses a for loop to print all the letters of every string in a list.  | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%208.py) |
 | Exercise 9   | Write a program that uses a for loop to count how many times a letter appears in a string.  | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%209.py) |
-| Exercise 10  | Write a program that uses a for loop to calculate the average of a list of numbers. [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%2010.py) |
+| Exercise 10  | Write a program that uses a for loop to calculate the average of a list of numbers. | [Link](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%2010.py) |
 
 ---
 
