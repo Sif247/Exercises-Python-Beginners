@@ -65,15 +65,15 @@
 
 | Exercise | Description |      Link      |
 |----------|-------------|----------------|
-| 1 | Ask the user to enter a number and print "The number is positive" if it's greater than zero, else print "The number is negative". | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%201.py) |
-| 2 | Ask the user to enter two numbers and compare them. Print "The first number is greater", "The second number is greater", or "The numbers are equal". | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%202.py) |
-| 3 | Ask the user to enter a string and print if it is empty or not. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%203.py) |
-| 4 | Ask the user to enter a number and print if it is even or odd. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%204.py) |
-| 5 | Ask the user to enter a letter and check if it's a vowel. | [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%205.py) |
-| 6 | Ask the user to enter a number and check if it's between 1 and 10. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%206.py) |
+| 1 | Ask the user to enter a number and print "The number is positive" if it's greater than zero, else print "The number is negative".| [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%201.py) |
+| 2 | Ask the user to enter two numbers and compare them. Print "The first number is greater", "The second number is greater", or "The numbers are equal".| [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%202.py) |
+| 3 | Ask the user to enter a string and print if it is empty or not.| [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%203.py) |
+| 4 | Ask the user to enter a number and print if it is even or odd.| [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%204.py) |
+| 5 | Ask the user to enter a letter and check if it's a vowel.| [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%205.py) |
+| 6 | Ask the user to enter a number and check if it's between 1 and 10.| [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%206.py) |
 | 7 | Ask the user to enter a number and print if it's greater, equal to, or less than 10. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%207.py) |
-| 8 | Ask the user to enter a character, and check if it's a vowel, consonant, or not a letter. | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%208.py) |
-| 9 | Ask the user to enter three integers representing the sides of a triangle and check if they form a right triangle. | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%209.py) |
+| 8 | Ask the user to enter a character, and check if it's a vowel, consonant, or not a letter.| [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%208.py)|
+| 9 | Ask the user to enter three integers representing the sides of a triangle and check if they form a right triangle.| [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%209.py) |
 
 ---
 
