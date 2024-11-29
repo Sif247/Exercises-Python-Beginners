@@ -17,8 +17,8 @@
 
 ## Variables Exercises
 
-| Exercise | Description | Link |
-|----------|-------------|------|
+| Exercise | Description |   Link   |
+|----------|-------------|----------|
 | 1 | Declare a variable `name` and assign it your name. Print it to the screen. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Variables/Exercise%201.py) |
 | 2 | Declare a variable `age` and assign it your age. Print it to the screen. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Variables/Exercise%202.py) |
 | 3 | Declare a variable `pi` and assign it the value of pi (3.14159). Print it to the screen. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Variables/Exercise%203.py) |
@@ -32,8 +32,8 @@
 
 ## String Exercises
 
-| Exercise | Description | Link |
-|----------|-------------|------|
+| Exercise | Description |   Link   |
+|----------|-------------|----------|
 | 1 | Assign "hello world" to a variable and convert it to uppercase. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/String/Exercise%201.py) |
 | 2 | Assign "Welcome to Rome" to a variable and convert it to lowercase. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/String/Exercise%202.py) |
 | 3 | Assign "The best is yet to come" to a variable and split it into a list of words. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/String/Exercise%203.py) |
@@ -48,8 +48,8 @@
 
 ## Mathematical Operators Exercises
 
-| Exercise | Description | Link |
-|----------|-------------|------|
+| Exercise | Description |   Link   |
+|----------|-------------|----------|
 | 1 | Declare two variables `number1` and `number2`, then add them and print the result. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%201.py) |
 | 2 | Subtract `number2` from `number1` and print the result. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%202.py) |
 | 3 | Multiply `number1` and `number2` and print the result. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/mathematical%20operators/Exercise%203.py) |
@@ -63,8 +63,8 @@
 
 ## If Conditional Statements Exercises
 
-| Exercise | Description | Link |
-|----------|-------------|------|
+| Exercise | Description |   Link   |
+|----------|-------------|----------|
 | 1 | Ask the user to enter a number and print "The number is positive" if it's greater than zero, else print "The number is negative". | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%201.py) |
 | 2 | Ask the user to enter two numbers and compare them. Print "The first number is greater", "The second number is greater", or "The numbers are equal". | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%202.py) |
 | 3 | Ask the user to enter a string and print if it is empty or not. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%203.py) |
@@ -79,8 +79,8 @@
 
 ## While Loops Exercises
 
-| Exercise | Description | Link |
-|----------|-------------|------|
+| Exercise | Description |   Link   |
+|----------|-------------|----------|
 | 1 | Print the integers from 1 to 10 using a while loop. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%201.py) |
 | 2 | Calculate the sum of the first `n` positive integers using a while loop. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%202.py) |
 | 3 | Print the even numbers from 2 to 10 using a while loop. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/While%20Loops/Exercise%203.py) |
@@ -95,8 +95,8 @@
 
 # For Loop Exercises
 
-| Exercise | Description| Link |
-|----------|------------|------|
+| Exercise | Description|   Link   |
+|----------|------------|----------|
 | 1 | Write a program that uses a for loop to print each element in a list.| [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%201.py) |
 | 2 | Write a program that uses a for loop to print all numbers from 1 to 10.| [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%202.py) |
 | 3 | Write a program that uses a for loop to sum all the numbers in a list.  | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/For%20Loop/Exercise%203.py) |
@@ -111,8 +111,8 @@
 ---
 ## List Exercises
 
-| Exercise | Description | Link |
-|----------|-------------|------|
+| Exercise | Description |   Link   |
+|----------|-------------|----------|
 | 1 | Create an empty list and assign it to a variable. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%201.py) |
 | 2 | Create a list of integers from 1 to 5 and assign it to a variable. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%202.py) |
 | 3 | Access the element with index 2 from the list created in the previous exercise. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/List/Exercise%203.py) |
@@ -127,8 +127,8 @@
 
 ## Tuple Exercises
 
-| Exercise | Description | Link |
-|----------|-------------|------|
+| Exercise | Description |   Link   |
+|----------|-------------|----------|
 | 1 | Create an empty tuple and assign it to a variable. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%201.py) |
 | 2 | Create a tuple with the following elements: `"apple"`, `"banana"`, `"kiwi"`. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%202.py) |
 | 3 | Access the element `"banana"` from the tuple created earlier. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%203.py) |
@@ -144,24 +144,24 @@
 
 ## Dictionary Exercises
 
-| Exercise | Description | Link |
-|----------|-------------|------|
-| 1 | Create an empty dictionary and assign it to a variable. | [Exercise 1](#) |
-| 2 | Create a dictionary with the following keys and values: `"name": "Mario"`, `"surname": "Rossi"`, `"age": 30`. | [Exercise 2](#) |
-| 3 | Access the value of the key `"age"` in the dictionary created earlier. | [Exercise 3](#) |
-| 4 | Add a new key `"email"` with the value `"mario.rossi@email.com"` to the previous dictionary. | [Exercise 4](#) |
-| 5 | Remove the key `"surname"` from the previous dictionary. | [Exercise 5](#) |
-| 6 | Create a new list containing only the keys from the previous dictionary. | [Exercise 6](#) |
-| 7 | Create a new list containing only the values from the previous dictionary. | [Exercise 7](#) |
-| 8 | Update the value of the key `"age"` in the previous dictionary to `35`. | [Exercise 8](#) |
-| 9 | Count the number of elements in the previous dictionary. | [Exercise 9](#) |
+| Exercise | Description |   Link   |
+|----------|-------------|----------|
+| 1 | Create an empty dictionary and assign it to a variable. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Dictionary/Exercise%201.py) |
+| 2 | Create a dictionary with the following keys and values: `"name": "Mario"`, `"surname": "Rossi"`, `"age": 30`. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Dictionary/Exercise%202.py) |
+| 3 | Access the value of the key `"age"` in the dictionary created earlier. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Dictionary/Exercise%203.py) |
+| 4 | Add a new key `"email"` with the value `"mario.rossi@email.com"` to the previous dictionary. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Dictionary/Exercise%204.py) |
+| 5 | Remove the key `"surname"` from the previous dictionary. | [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Dictionary/Exercise%205.py) |
+| 6 | Create a new list containing only the keys from the previous dictionary. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Dictionary/Exercise%206.py) |
+| 7 | Create a new list containing only the values from the previous dictionary. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Dictionary/Exercise%207.py) |
+| 8 | Update the value of the key `"age"` in the previous dictionary to `35`. | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Dictionary/Exercise%208.py) |
+| 9 | Count the number of elements in the previous dictionary. | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Dictionary/Exercise%209.py) |
 
 ---
 
 ## Set Exercises
 
-| Exercise | Description | Link |
-|----------|-------------|------|
+| Exercise | Description |   Link   |
+|----------|-------------|----------|
 | 1 | Create an empty set and assign it to a variable. | [Exercise 1](#) |
 | 2 | Create a set containing the following elements: `"apple"`, `"banana"`, `"kiwi"`, `"apple"`. | [Exercise 2](#) |
 | 3 | Add the element `"peach"` to the previous set. | [Exercise 3](#) |
