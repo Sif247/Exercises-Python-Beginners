@@ -138,7 +138,7 @@
 | 7 | Find the length of the tuple created in the previous exercise. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%207.py) |
 | 8 | Create a tuple containing the integers from 1 to 5. | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%208.py) |
 | 9 | Create a tuple containing the squares of integers from 1 to 5. | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%209.py) |
-| 10 | Count the number of occurrences of the element `"apple"` in the previous tuple. | [Exercise 10]() |
+| 10 | Count the number of occurrences of the element `"apple"` in the previous tuple. | [Exercise 10](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%2010.py) |
 
 ---
 
