@@ -129,16 +129,16 @@
 
 | Exercise | Description | Link |
 |----------|-------------|------|
-| 1 | Create an empty tuple and assign it to a variable. | [Exercise 1](#) |
-| 2 | Create a tuple with the following elements: `"apple"`, `"banana"`, `"kiwi"`. | [Exercise 2](#) |
-| 3 | Access the element `"banana"` from the tuple created earlier. | [Exercise 3](#) |
-| 4 | Create a new tuple containing only the first two elements of the previous tuple. | [Exercise 4](#) |
-| 5 | Check if the element `"pineapple"` is present in the previous tuple. | [Exercise 5](#) |
-| 6 | Create a new tuple by concatenating the previous tuple with the tuple `("peach", "orange")`. | [Exercise 6](#) |
-| 7 | Find the length of the tuple created in the previous exercise. | [Exercise 7](#) |
-| 8 | Create a tuple containing the integers from 1 to 5. | [Exercise 8](#) |
-| 9 | Create a tuple containing the squares of integers from 1 to 5. | [Exercise 9](#) |
-| 10 | Count the number of occurrences of the element `"apple"` in the previous tuple. | [Exercise 10](#) |
+| 1 | Create an empty tuple and assign it to a variable. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%201.py) |
+| 2 | Create a tuple with the following elements: `"apple"`, `"banana"`, `"kiwi"`. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%202.py) |
+| 3 | Access the element `"banana"` from the tuple created earlier. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%203.py) |
+| 4 | Create a new tuple containing only the first two elements of the previous tuple. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%204.py) |
+| 5 | Check if the element `"pineapple"` is present in the previous tuple. | [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%205.py) |
+| 6 | Create a new tuple by concatenating the previous tuple with the tuple `("peach", "orange")`. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%206.py) |
+| 7 | Find the length of the tuple created in the previous exercise. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%207.py) |
+| 8 | Create a tuple containing the integers from 1 to 5. | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%208.py) |
+| 9 | Create a tuple containing the squares of integers from 1 to 5. | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%209.py) |
+| 10 | Count the number of occurrences of the element `"apple"` in the previous tuple. | [Exercise 10](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Tuple/Exercise%2010.py) |
 
 ---
 
