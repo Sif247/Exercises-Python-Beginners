@@ -12,6 +12,8 @@
 - [Dictionary Exercises](#dictionary-exercises)
 - [Set Exercises](#set-exercises)
 - [Functions Exercises](#functions-exercises)
+- [Object-Oriented Programming Exercises](#object-oriented-programming-exercises)
+
 
 
 ---
@@ -190,3 +192,14 @@
 | 10 | Write a function that takes a list of numbers and returns a list containing only the numbers greater than a specified value. | [Exercise 10](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%2010.py) |
 
 ---
+
+
+## Object-Oriented Programming Exercises
+
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 1 | Create a `Person` class with the attributes `name`, `age`, and `gender`. Add a method `introduce` that prints an introduction message, such as “Hi, my name is Marco and I am 32 years old.” | [Exercise 1](#) |
+| 2 | Create an `Animal` class with the attributes `name` and `species`. Add a method `make_sound` that prints a sound specific to the species. For example, if the animal is a cat, it should print “Meow!”, and if it is a dog, it should print “Woof!”. | [Exercise 2](#) |
+| 3 | Create a `Car` class with the attributes `brand`, `model`, and `year`. Add a method `describe` that prints a description of the car, such as “This is a Toyota Corolla from 2017.” | [Exercise 3](#) |
+| 4 | Create an `Employee` class with the attributes `name`, `surname`, `id_number`, and `salary`. Add a method `increase_salary` that increases the employee's salary by 10%, and a method `print_details` that prints all employee details, such as “Employee: Marco Rossi, ID: 12345, Salary: 3000 Euros.” | [Exercise 4](#) |
+| 5 | Create a `WarehouseManager` class to manage a warehouse of products. The class should have the following: <br> - A dictionary `products` that maps product names to their respective `Product` objects (described below). <br> - A variable `storage_cost` that indicates the cost of storing each product for a month. <br> Methods: <br> - `add_product` to add a new product to the warehouse. <br> - `remove_product` to remove a product from the warehouse. <br> - `calculate_storage_costs` to calculate the storage costs for all products in the warehouse. <br> Additionally, create a `Product` class with the attributes `name`, `price`, and `stock`. | [Exercise 5](#) |
