@@ -178,15 +178,15 @@
 
 | Exercise | Description | Link |
 |----------|-------------|------|
-| 1 | Write a function that takes a list of numbers and returns the sum of all elements. | [Exercise 1](#) |
-| 2 | Write a function that takes a string and returns the reversed string. | [Exercise 2](#) |
-| 3 | Write a function that takes a list of words and returns a list containing only the words that start with a specific letter. | [Exercise 3](#) |
-| 4 | Write a function that takes a list of numbers and returns a list containing only the even numbers. | [Exercise 4](#) |
-| 5 | Write a function that takes a list of words and returns a list containing the length of each word. | [Exercise 5](#) |
-| 6 | Write a function that takes a list of numbers and returns the maximum value. | [Exercise 6](#) |
-| 7 | Write a function that takes a list of words and returns the longest word. | [Exercise 7](#) |
-| 8 | Write a function that takes a list of numbers and returns the average of the numbers. | [Exercise 8](#) |
-| 9 | Write a function that takes a list of words and returns a list containing only the palindromic words. | [Exercise 9](#) |
-| 10 | Write a function that takes a list of numbers and returns a list containing only the numbers greater than a specified value. | [Exercise 10](#) |
+| 1 | Write a function that takes a list of numbers and returns the sum of all elements. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%201.py) |
+| 2 | Write a function that takes a string and returns the reversed string. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%202.py) |
+| 3 | Write a function that takes a list of words and returns a list containing only the words that start with a specific letter. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%203.py) |
+| 4 | Write a function that takes a list of numbers and returns a list containing only the even numbers. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%204.py) |
+| 5 | Write a function that takes a list of words and returns a list containing the length of each word. | [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%205.py) |
+| 6 | Write a function that takes a list of numbers and returns the maximum value. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%206.py) |
+| 7 | Write a function that takes a list of words and returns the longest word. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%207.py) |
+| 8 | Write a function that takes a list of numbers and returns the average of the numbers. | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%208.py) |
+| 9 | Write a function that takes a list of words and returns a list containing only the palindromic words. | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%209.py) |
+| 10 | Write a function that takes a list of numbers and returns a list containing only the numbers greater than a specified value. | [Exercise 10](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%2010.py) |
 
 ---
