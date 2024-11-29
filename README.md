@@ -63,8 +63,8 @@
 
 ## If Conditional Statements Exercises
 
-| Exercise | Description |    Link    |
-|----------|-------------|------------|
+| Exercise | Description |      Link      |
+|----------|-------------|----------------|
 | 1 | Ask the user to enter a number and print "The number is positive" if it's greater than zero, else print "The number is negative". | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%201.py) |
 | 2 | Ask the user to enter two numbers and compare them. Print "The first number is greater", "The second number is greater", or "The numbers are equal". | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%202.py) |
 | 3 | Ask the user to enter a string and print if it is empty or not. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/IF%20Conditional%20Statements/Exercise%203.py) |
