@@ -162,11 +162,11 @@
 
 | Exercise | Description |   Link   |
 |----------|-------------|----------|
-| 1 | Create an empty set and assign it to a variable. | [Exercise 1](#) |
-| 2 | Create a set containing the following elements: `"apple"`, `"banana"`, `"kiwi"`, `"apple"`. | [Exercise 2](#) |
-| 3 | Add the element `"peach"` to the previous set. | [Exercise 3](#) |
-| 4 | Remove the element `"apple"` from the previous set. | [Exercise 4](#) |
-| 5 | Check if the element `"pineapple"` is present in the previous set. | [Exercise 5](#) |
-| 6 | Create a new set containing the elements `"banana"`, `"kiwi"`, and `"orange"`. | [Exercise 6](#) |
-| 7 | Create a set containing integers from 1 to 5 using `range()`. | [Exercise 7](#) |
-| 8 | Create a new set containing the even numbers from the set created earlier. | [Exercise 8](#) |
+| 1 | Create an empty set and assign it to a variable. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Set/Exercise%201.py) |
+| 2 | Create a set containing the following elements: `"apple"`, `"banana"`, `"kiwi"`, `"apple"`. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Set/Exercise%202.py) |
+| 3 | Add the element `"peach"` to the previous set. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Set/Exercise%203.py) |
+| 4 | Remove the element `"apple"` from the previous set. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Set/Exercise%204.py) |
+| 5 | Check if the element `"pineapple"` is present in the previous set. | [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Set/Exercise%205.py) |
+| 6 | Create a new set containing the elements `"banana"`, `"kiwi"`, and `"orange"`. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Set/Exercise%206.py) |
+| 7 | Create a set containing integers from 1 to 5 using `range()`. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Set/Exercise%207.py) |
+| 8 | Create a new set containing the even numbers from the set created earlier. | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/Set/Exercise%208.py) |
