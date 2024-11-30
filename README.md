@@ -243,12 +243,12 @@
 
 | Exercise | Description | Link |
 |----------|-------------|------|
-| 1 | Write a program that reads the content of a text file and prints it to the screen. | [Exercise 1](#) |
-| 2 | Write a program that prompts the user to enter a string and then writes the string to a text file. | [Exercise 2](#) |
-| 3 | Write a program that reads the content of a text file and copies it to another file. | [Exercise 3](#) |
-| 4 | Write a program that counts the number of lines in a text file. | [Exercise 4](#) |
-| 5 | Write a program that reads the content of a CSV file (comma-separated values) and prints it to the screen in table format. | [Exercise 5](#) |
-| 6 | Write a program that prompts the user to enter the values of a table in CSV format (comma-separated values) and then writes these values to a CSV file. | [Exercise 6](#) |
-| 7 | Write a program that reads the content of a text file and copies it to another file, reversing the order of the lines. | [Exercise 7](#) |
+| 1 | Write a program that reads the content of a text file and prints it to the screen. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/File%20Exercises/Exercise%201.py) |
+| 2 | Write a program that prompts the user to enter a string and then writes the string to a text file. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/File%20Exercises/Exercise%202.py) |
+| 3 | Write a program that reads the content of a text file and copies it to another file. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/File%20Exercises/Exercise%203.py) |
+| 4 | Write a program that counts the number of lines in a text file. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/File%20Exercises/Exercise%204.py) |
+| 5 | Write a program that reads the content of a CSV file (comma-separated values) and prints it to the screen in table format. | [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/File%20Exercises/Exercise%205.py) |
+| 6 | Write a program that prompts the user to enter the values of a table in CSV format (comma-separated values) and then writes these values to a CSV file. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/File%20Exercises/Exercise%206.py) |
+| 7 | Write a program that reads the content of a text file and copies it to another file, reversing the order of the lines. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/File%20Exercises/Exercise%207.py) |
 
 ---
