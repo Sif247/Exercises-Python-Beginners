@@ -12,6 +12,11 @@
 - [Dictionary Exercises](#dictionary-exercises)
 - [Set Exercises](#set-exercises)
 - [Functions Exercises](#functions-exercises)
+- [Object-Oriented Programming Exercises](#object-oriented-programming-exercises)
+- [Inheritance Exercises](#inheritance-exercises)
+- [Datetime Exercises](#datetime-exercises)
+- [File Exercises](#file-exercises)
+
 
 
 ---
@@ -178,15 +183,72 @@
 
 | Exercise | Description | Link |
 |----------|-------------|------|
-| 1 | Write a function that takes a list of numbers and returns the sum of all elements. | [Exercise 1](#) |
-| 2 | Write a function that takes a string and returns the reversed string. | [Exercise 2](#) |
-| 3 | Write a function that takes a list of words and returns a list containing only the words that start with a specific letter. | [Exercise 3](#) |
-| 4 | Write a function that takes a list of numbers and returns a list containing only the even numbers. | [Exercise 4](#) |
-| 5 | Write a function that takes a list of words and returns a list containing the length of each word. | [Exercise 5](#) |
-| 6 | Write a function that takes a list of numbers and returns the maximum value. | [Exercise 6](#) |
-| 7 | Write a function that takes a list of words and returns the longest word. | [Exercise 7](#) |
-| 8 | Write a function that takes a list of numbers and returns the average of the numbers. | [Exercise 8](#) |
-| 9 | Write a function that takes a list of words and returns a list containing only the palindromic words. | [Exercise 9](#) |
-| 10 | Write a function that takes a list of numbers and returns a list containing only the numbers greater than a specified value. | [Exercise 10](#) |
+| 1 | Write a function that takes a list of numbers and returns the sum of all elements. | [Exercise 1](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%201.py) |
+| 2 | Write a function that takes a string and returns the reversed string. | [Exercise 2](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%202.py) |
+| 3 | Write a function that takes a list of words and returns a list containing only the words that start with a specific letter. | [Exercise 3](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%203.py) |
+| 4 | Write a function that takes a list of numbers and returns a list containing only the even numbers. | [Exercise 4](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%204.py) |
+| 5 | Write a function that takes a list of words and returns a list containing the length of each word. | [Exercise 5](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%205.py) |
+| 6 | Write a function that takes a list of numbers and returns the maximum value. | [Exercise 6](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%206.py) |
+| 7 | Write a function that takes a list of words and returns the longest word. | [Exercise 7](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%207.py) |
+| 8 | Write a function that takes a list of numbers and returns the average of the numbers. | [Exercise 8](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%208.py) |
+| 9 | Write a function that takes a list of words and returns a list containing only the palindromic words. | [Exercise 9](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%209.py) |
+| 10 | Write a function that takes a list of numbers and returns a list containing only the numbers greater than a specified value. | [Exercise 10](https://github.com/Sif247/Exercises-Python-Beginners/blob/main/functions/Exercise%2010.py) |
+
+---
+
+
+## Object-Oriented Programming Exercises
+
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 1 | Create a `Person` class with the attributes `name`, `age`, and `gender`. Add a method `introduce` that prints an introduction message, such as “Hi, my name is Marco and I am 32 years old.” | [Exercise 1](#) |
+| 2 | Create an `Animal` class with the attributes `name` and `species`. Add a method `make_sound` that prints a sound specific to the species. For example, if the animal is a cat, it should print “Meow!”, and if it is a dog, it should print “Woof!”. | [Exercise 2](#) |
+| 3 | Create a `Car` class with the attributes `brand`, `model`, and `year`. Add a method `describe` that prints a description of the car, such as “This is a Toyota Corolla from 2017.” | [Exercise 3](#) |
+| 4 | Create an `Employee` class with the attributes `name`, `surname`, `id_number`, and `salary`. Add a method `increase_salary` that increases the employee's salary by 10%, and a method `print_details` that prints all employee details, such as “Employee: Marco Rossi, ID: 12345, Salary: 3000 Euros.” | [Exercise 4](#) |
+| 5 | Create a `WarehouseManager` class to manage a warehouse of products. The class should have the following: <br> - A dictionary `products` that maps product names to their respective `Product` objects (described below). <br> - A variable `storage_cost` that indicates the cost of storing each product for a month. <br> Methods: <br> - `add_product` to add a new product to the warehouse. <br> - `remove_product` to remove a product from the warehouse. <br> - `calculate_storage_costs` to calculate the storage costs for all products in the warehouse. <br> Additionally, create a `Product` class with the attributes `name`, `price`, and `stock`. | [Exercise 5](#) |
+
+---
+
+## Inheritance Exercises
+
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 1 | Write a class `Vehicle` with the following properties: `brand`, `model`, and `year`. Then add the methods `accelerate` and `brake`. Create a class `Car` that inherits from `Vehicle` but adds the property `color` and the method `change_color()`. | [Exercise 1](#) |
+| 2 | Modify the class `Car` to also inherit the `__str__()` method from the `Vehicle` class to print car information in this format: “Brand: Ferrari, Model: Enzo, Year: 2004, Color: Red”. | [Exercise 2](#) |
+| 3 | Write a class `Shape` with a method `area()` to calculate the area of the shape. Then create the classes `Square` and `Circle` that inherit from `Shape` and implement the `area()` method appropriately for each shape. Use the created classes to create a square and a circle, then print the area of each. | [Exercise 3](#) |
+
+
+---
+
+## Datetime Exercises
+
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 1 | Write a program that prints the current date and time. | [Exercise 1](#) |
+| 2 | Write a program that takes a date in the format `"dd/mm/yyyy"` as input and prints the name of the corresponding month. | [Exercise 2](#) |
+| 3 | Write a program that takes two dates as input and calculates the difference in days between them. | [Exercise 3](#) |
+| 4 | Write a program that takes a date and a number of days as input, and calculates the date that comes after the specified number of days. | [Exercise 4](#) |
+| 5 | Write a program that prints all the days of a given month and year. | [Exercise 5](#) |
+| 6 | Write a program that takes a date in the format `"dd/mm/yyyy"` as input and checks if the year is a leap year or not. | [Exercise 6](#) |
+| 7 | Write a program that takes two dates as input and prints all the dates between them (inclusive). | [Exercise 7](#) |
+| 8 | Write a function that takes two dates as `datetime` objects and returns the number of days between them. | [Exercise 8](#) |
+| 9 | Write a function that takes a date as a `datetime` object and returns the corresponding day of the week as a string. | [Exercise 9](#) |
+| 10 | Write a function that takes a date as a `datetime` object and returns the corresponding week number of the year. | [Exercise 10](#) |
+
+---
+
+
+
+## File Exercises
+
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 1 | Write a program that reads the content of a text file and prints it to the screen. | [Exercise 1](#) |
+| 2 | Write a program that prompts the user to enter a string and then writes the string to a text file. | [Exercise 2](#) |
+| 3 | Write a program that reads the content of a text file and copies it to another file. | [Exercise 3](#) |
+| 4 | Write a program that counts the number of lines in a text file. | [Exercise 4](#) |
+| 5 | Write a program that reads the content of a CSV file (comma-separated values) and prints it to the screen in table format. | [Exercise 5](#) |
+| 6 | Write a program that prompts the user to enter the values of a table in CSV format (comma-separated values) and then writes these values to a CSV file. | [Exercise 6](#) |
+| 7 | Write a program that reads the content of a text file and copies it to another file, reversing the order of the lines. | [Exercise 7](#) |
 
 ---
